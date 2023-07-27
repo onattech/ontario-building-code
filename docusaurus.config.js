@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula")
 const config = {
     title: "Ontario Building Code",
     tagline: "Ontario Building Code",
-    favicon: "img/favicon.ico",
+    favicon: "img/ontario.png",
 
     // Set the production url of your site here
     url: "https://your-docusaurus-test-site.com",
