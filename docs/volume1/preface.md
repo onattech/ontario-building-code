@@ -93,27 +93,6 @@ Furthermore, Part 7 has been converted to SI units where it is feasible, except 
 
 A decimal numbering system has been used to identify particular requirements. The first number indicates the Part of the Code, the second, the Section in the Part, the third, the Subsection and the fourth, the Article in the Subsection. An Article may be further broken down into Sentences (indicated by numbers in brackets), and the Sentence further divided into Clauses and Subclauses. These are illustrated as follows:
 
-3
-3.6.
-3.6.2.
-3.6.2.3.
-3.6.2.3.(1)
-3.6.2.3.(1)(f)
-3.6.2.3.(1)(f)(i)
-3.6.2.3.(1)(f)(i)(A)
-3.6.2.3.(1)1.
-3.6.2.3.(1)1.i.
-Part
-Section
-Subsection
-Article
-Sentence
-Clause
-Subclause
-Sub-subclause
-Paragraph
-Sub-paragrap
-
 |                      |               |
 | :------------------- | :------------ |
 | 3                    | Part          |
