@@ -11,15 +11,15 @@ const config = {
     favicon: "img/ontario.png",
 
     // Set the production url of your site here
-    url: "https://your-docusaurus-test-site.com",
+    url: "https://onattech.github.io",
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: "/ontario-building-code/",
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: "facebook", // <== Change
-    projectName: "docusaurus", // <== Change
+    organizationName: "onattech", // <== Change
+    projectName: "ontario-building-code", // <== Change
 
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "warn",
@@ -42,8 +42,7 @@ const config = {
                     routeBasePath: "/", // Serve the docs at the site's root
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+                    editUrl: "https://github.com/onattech/ontario-building-code/tree/main",
                 },
                 // blog: {
                 //     showReadingTime: true,
@@ -79,7 +78,7 @@ const config = {
                     // },
                     // { to: "/blog", label: "Blog", position: "left" },
                     {
-                        href: "https://github.com/facebook/docusaurus",
+                        href: "https://github.com/onattech/ontario-building-code",
                         label: "GitHub",
                         position: "right",
                     },
