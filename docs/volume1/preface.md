@@ -5,7 +5,7 @@ slug: /preface
 
 # Preface
 
-## Introduction hello
+## Introduction
 
 The Building Code is a regulation made under the Building Code Act, 1992. This edition of the Building Code Compendium
 contains the Supplementary Standards referenced by the Code and additional explanatory material and is prepared for
