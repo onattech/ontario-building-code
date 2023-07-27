@@ -133,6 +133,14 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
+
+            algolia: {
+                appId: "G82XCY9R2N",
+                apiKey: "5b13e13ae3642578b5e9ac3849c1b639",
+                indexName: "index",
+                contextualSearch: true,
+                searchParameters: {},
+            },
         }),
 }
 
